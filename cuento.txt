@@ -3,3 +3,8 @@ habia una vez una niña con capucha roja
 esta niña era bella y le gustaba andar por el bosque
 
 se le puede añadir una imagen al proyecto y se almacena en un commit
+
+
+tambien se puede meter por medio de interfase grafica
+
+Ok
